@@ -1,2 +1,2 @@
 # .github
-Org-wide GitHub Actions Workflow
+Org-wide GitHub Actions Workflows
